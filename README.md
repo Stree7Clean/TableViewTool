@@ -11,7 +11,7 @@
 
 
 EXAMPLE:<br>
-` ``
+```
 @implementation ViewController
 
 - (void)viewDidLoad {
@@ -111,7 +111,7 @@ EXAMPLE:<br>
 
 @end
 
-` ``
+```
 
 
 
