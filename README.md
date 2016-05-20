@@ -34,6 +34,15 @@ EXAMPLE:<br>
     });
 }
 
+#pragma mark - Getters
+- (STTableViewTool *)tableTool
+{
+    if (!_tableTool) {
+        _tableTool = [STTableViewTool new];
+    }
+    return _tableTool;
+}
+
 
 - (STTableSectionModel *)sectionModel
 {
