@@ -11,6 +11,7 @@
 
 
 EXAMPLE:<br>
+` ``
 @implementation ViewController
 
 - (void)viewDidLoad {
@@ -110,7 +111,7 @@ EXAMPLE:<br>
 
 @end
 
-
+` ``
 
 
 
@@ -124,4 +125,4 @@ EXAMPLE:<br>
 
 
 NOTICES:
-The inspiration is from the article at website:  <a href:"http://www.cocoachina.com/ios/20160428/16002.html">
+The inspiration is from the article at website: http://www.cocoachina.com/ios/20160428/16002.html
