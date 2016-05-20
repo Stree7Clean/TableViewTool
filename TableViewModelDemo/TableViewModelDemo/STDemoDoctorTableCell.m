@@ -20,11 +20,11 @@
 #define kHospitalFont [UIFont systemFontOfSize:17]
 
 @interface STDemoDoctorTableCell ()
-@property (nonatomic, strong) UIImageView *gravatarImageView;   //头像
-@property (nonatomic, strong) UILabel     *nameLabel;           //姓名
-@property (nonatomic, strong) UILabel     *typeLabel;           //医生等级
-@property (nonatomic, strong) UILabel     *hospitalLabel;       //所属医院
-@property (nonatomic, strong) UILabel     *goodatLabel;         //主治
+@property (nonatomic) UIImageView *gravatarImageView;   //头像
+@property (nonatomic) UILabel     *nameLabel;           //姓名
+@property (nonatomic) UILabel     *typeLabel;           //医生等级
+@property (nonatomic) UILabel     *hospitalLabel;       //所属医院
+@property (nonatomic) UILabel     *goodatLabel;         //主治
 @end
 
 @implementation STDemoDoctorTableCell
