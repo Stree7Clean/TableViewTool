@@ -2,10 +2,10 @@
 可以重用的tableViewTool，使用block代替系统的代理方法,持续更新中~
 
 ATTENTIONS:
-**You may run this project by following issues below:**\<br> 
--1.Enter the folder that owns file named 'Podfile'\<br> 
--2.tap 'pod install' in the terminal\<br> 
--3.run the *.xcodeworkspace file\<br> 
+**You may run this project by following issues below:**<br> 
+-1.Enter the folder that owns file named 'Podfile'<br> 
+-2.tap 'pod install' in the terminal<br> 
+-3.run the *.xcodeworkspace file<br> 
 
 
 
