@@ -30,9 +30,7 @@
     _tableView.tableFooterView = [UIView new];
     [self.view addSubview:self.tableView];
     
-    
-    
-    
+ 
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         [self.tableTool.sectionModelArray addObject:[self sectionModel]];
         dispatch_sync(dispatch_get_main_queue(), ^{

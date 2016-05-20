@@ -48,9 +48,9 @@ typedef NS_ENUM(NSUInteger,ESectionType) {
 @property (nonatomic, assign)   CGFloat                 headerHeight;
 // footerHeight is 0 as default
 @property (nonatomic, assign)   CGFloat                 footerHeight;
-// headerHandler can be nil unless ESectionType is ESectionTypeDefault
+// headerHandler can be nil unless ESectionType is ESectionTypeCustom
 @property (nonatomic, copy)     SectionConfigureHandler headerHandler;
-// footerHandler can be nil unless ESectionType is ESectionTypeDefault
+// footerHandler can be nil unless ESectionType is ESectionTypeCustom
 @property (nonatomic, copy)     SectionConfigureHandler footerHandler;
 
 //ESectionType is ESectionTypeDefault as default
