@@ -2,7 +2,7 @@
 可以重用的tableViewTool，使用block代替系统的代理方法,持续更新中~
 
 ATTENTIONS:
-You may run this project by following issues below:
+**You may run this project by following issues below:**
 1.Enter the folder that owns file named 'Podfile'
 2.tap 'pod install' in the terminal
 3.run the *.xcodeworkspace file
